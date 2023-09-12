@@ -1,2 +1,2 @@
 # odin-recipie
-rec
+okay
